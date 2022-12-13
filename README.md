@@ -7,7 +7,7 @@
 <br>
 
 <p align="center"> 
-	<(https://komarev.com/ghpvc/?username=lachlan-bennetts&color=#fe4a49)/> 
+	![](https://komarev.com/ghpvc/?username=lachlan-bennetts^color=fe4a49 )
 </p>
 
 
