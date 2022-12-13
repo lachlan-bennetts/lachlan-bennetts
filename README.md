@@ -14,9 +14,9 @@
 ## :sassy_man:  About me:
 - :round_pushpin: Sydney, Australia
 - :briefcase: Full Stack Web Developer
-- :school: {
-	Le Wagon Full Stack Web Development Graduate,
-	Bachelor of Science (Chemistry Major)
+- :school: { <br>
+	Le Wagon Full Stack Web Development Graduate, <br>
+	Bachelor of Science(Chemistry Major) <br>
 }
 
 
