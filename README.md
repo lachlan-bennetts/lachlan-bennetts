@@ -19,8 +19,8 @@
 - :grin: Looking for a job as a junior Full Stack Web Developer.
 - :notebook: [My Resume](https://drive.google.com/file/d/14FMyt6GIK2RqhWGPwtPN2ADJKVS_jLYM/view?usp=share_link)
 
-## My Programming Skills
-### My Backend & Version Control
+## 💻 My Programming Skills
+### :boom: My Backend & Version Control
 <p align-"center">
 <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
 <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
@@ -30,14 +30,14 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-### My Frontend
+### :boom: My Frontend
 <p align-"center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">		
 </p>
 
-### 📖 What I'm learning right now!
+### :boom: What I'm learning right now!
 <p align-"center">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
