@@ -12,8 +12,11 @@
 
 
 ## :sassy_man:  About me:
-name: Lachlan Bennetts
-Location: Sydney, Australia
-current_role: Full Stack Web Developer
+- :round_pushpin: Sydney, Australia
+- :briefcase: Full Stack Web Developer
+- :school: {
+	Le Wagon Full Stack Web Development Graduate,
+	Bachelor of Science (Chemistry Major)
+}
 
 
