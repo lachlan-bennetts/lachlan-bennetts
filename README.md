@@ -57,5 +57,4 @@
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lachlan-bennetts&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="lachlan-bennetts" height="192px"/>
-  <br/>
 	</p>
