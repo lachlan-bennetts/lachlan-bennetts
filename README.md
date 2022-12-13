@@ -53,7 +53,6 @@
 ## Some Github Statistics
   <p align="center">
     <img alt="lachlan-bennetts' Github Stats" src="https://github-readme-stats.vercel.app/api?username=lachlan-bennetts&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-<br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lachlan-bennetts&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="lachlan-bennetts" height="192px"/>
 	</p>
