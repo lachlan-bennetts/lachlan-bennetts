@@ -17,7 +17,7 @@
 - :school: Le Wagon Full Stack Graduate, Bachelor of Science(Chemistry Major).
 - :technologist: Currently learning TypeScript and React.
 - :grin: Looking for a job as a junior Full Stack Web Developer.
-- :notebook: [My Resume](https://drive.google.com/file/d/14FMyt6GIK2RqhWGPwtPN2ADJKVS_jLYM/view?usp=share_link)
+- :notebook: [My Resume](https://drive.google.com/file/d/1GVaWjqiL_8ip-3_Jlt1jsuHNPiwEmviL/view?usp=share_link)
 
 ## 💻 My Programming Skills
 ### :boom: My Backend & Version Control
