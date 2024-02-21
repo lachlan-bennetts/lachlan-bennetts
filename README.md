@@ -20,43 +20,59 @@
 - :notebook: [My Resume](https://drive.google.com/file/d/1fLp990-kBAUNVz7SPHRN3Hg4YZhQfBR2/view?usp=sharing)
 
 ## 💻 My Programming Skills
-### :boom: My Backend & Version Control
+### :boom: Backend
 <p align="center">
-	<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
+	<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge">
+	<img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge">
+	<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge">
 	<img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
 
-### :boom: My Frontend
+
+### :boom: Frontend
 <p align="center">
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">		
+	<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge">
+</p>
+
+### :boom: Databases & ORMs
+<p align="center">
+	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+	<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge">
+	<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge">
+</p>
+
+### :boom: Languages
+<p align="center">
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge">
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge">
+	<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white">
+	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</p>
+
+### :boom: DevOps
+<p align="center">
+	<img src="https://img.shields.io/badge/Red%20Hat%20Open%20Shift-E00?logo=redhatopenshift&logoColor=fff&style=for-the-badge">
+	<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+	<img src="https://img.shields.io/badge/Tekton-FD495C?logo=tekton&logoColor=fff&style=for-the-badge>
+ 	<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge">
+  	<img src="https://img.shields.io/badge/Bamboo-0052CC?logo=bamboo&logoColor=fff&style=for-the-badge">
+
 </p>
 
 ### :boom: Softwares & Tools
 <p align="center">
-	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 	<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
 </p>
 
-### :boom: What I'm learning right now!
+### :boom: Version Control
 <p align="center">
-	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Some Github Statistics
-  <p align="center">
-    <img alt="lachlan-bennetts' Github Stats" src="https://github-readme-stats.vercel.app/api?username=lachlan-bennetts&show_icons=true&count_private=true&theme=algolia" height="150px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lachlan-bennetts&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="lachlan-bennetts" height="150px"/>
-	</p>
-	
 ## Connect with Me!
 <p align="center">
 <a href="https://www.linkedin.com/in/lachlan-bennetts/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"><a>
