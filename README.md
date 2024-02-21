@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Lachlan Bennetts <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&weight=600&pause=1000&color=FE4A49&center=true&vCenter=true&width=435&lines=Le+Wagon+Full+Stack+Graduate;Passionate+Programmer;+Interested+in+exciting+new+projects!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Vinyl&weight=600&pause=1000&color=FE4A49&center=true&vCenter=true&width=435&lines=Le+Wagon+Full+Stack+Graduate;1+Year+Intensive+Industry+Experience;+Interested+in+exciting+new+projects!" alt="Typing SVG" /></a>
 </p>
 
 <br>
@@ -13,10 +13,10 @@
 
 ## :sassy_man:  About me:
 - :round_pushpin: Sydney, Australia
-- :briefcase: Full Stack Web Developer
-- :school: Le Wagon Full Stack Graduate, Bachelor of Science(Chemistry Major).
-- :technologist: Currently learning TypeScript and React.
-- :grin: Looking for a job as a junior Full Stack Web Developer.
+- :briefcase: Full Stack Product Engineer/ Back End Product Engineer
+- :school: Previously a Bachelor of Sceience(Chemistry Major), Now a full blown Product Engineer!
+- :technologist: Highly proficient in Typescript, React, NestJS, Express and more JS plugins.
+- :grin: Looking for a job as a Mid Level Full Stack Product Engineer.
 - :notebook: [My Resume](https://drive.google.com/file/d/1fLp990-kBAUNVz7SPHRN3Hg4YZhQfBR2/view?usp=sharing)
 
 ## 💻 My Programming Skills
