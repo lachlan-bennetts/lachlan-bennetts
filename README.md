@@ -17,7 +17,7 @@
 - :school: Previously a Bachelor of Science(Chemistry Major), working in that space for a number of years, took a leap of faith and I am now a full blown Product Engineer!
 - :technologist: Highly proficient in Typescript, React, NestJS, Express and more JS plugins.
 - :grin: Looking for a job as a Mid Level Full Stack Product Engineer.
-- :notebook: [My Resume](https://drive.google.com/file/d/1fLp990-kBAUNVz7SPHRN3Hg4YZhQfBR2/view?usp=sharing)
+- :notebook: [My Resume](https://drive.google.com/file/d/1ebFFsjXeP3M_wznF-d3MMgyS8G5OUJWm/view?usp=drive_link)
 
 ## 💻 My Programming Skills
 ### :boom: Backend
